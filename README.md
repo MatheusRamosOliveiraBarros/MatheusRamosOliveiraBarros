@@ -38,3 +38,7 @@
     <img height="180" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusRamosOliveiraBarros&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
   </a>
 </p>
+<p align="center">
+  <img src="https://media.tenor.com/images/62c7a1a32b8e6f6f5c622e657db9e8c3/tenor.gif" alt="Gato Digitando" width="200">
+</p>
+
