@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/41a920e76851d3376f7dc21188f7fb9325b6eb61e78f66731dfcb223aa5c8371/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d47656f2d53696c76612e47656f2d53696c7661" alt="Whatzapp" width="200">
+  <span style="font-size: 24px;">My name is Matheus Ramos! 👻</span>
 </p>
-
-<p align="center" style="font-size: 24px;">My name is Matheus Ramos! 👻</p>
 
 <p align="center">
   <a href="https://wa.me/+554896192999">
@@ -36,4 +34,3 @@
     <img height="180" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusRamosOliveiraBarros&layout=compact&langs_count=8&theme=dark" alt="Top Languages">
   </a>
 </p>
-
