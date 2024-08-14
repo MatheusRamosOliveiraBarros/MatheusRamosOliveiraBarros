@@ -26,7 +26,7 @@
 </p>
 
 <p align="center" style="font-size: 14px; margin-bottom: 39px;">
-  I am an Information Technology enthusiast with a strong desire to learn and grow in the field. I am currently seeking an internship opportunity that will allow me to apply my knowledge in a real work environment and enhance my skills. Although I have not yet completed my degree, I am committed to dedicating myself and contributing significantly to your company.
+ I am an Information Technology enthusiast with a strong desire to learn and grow in the field. I am currently seeking an internship opportunity where I can apply my knowledge in a real-world environment and further develop my skills. Although I have not yet completed my degree, I am committed to dedicating myself fully and making a significant contribution to your company.
 </p>
 
 <!-- Increased font size for "Technologies I Use" and reduced margin -->
