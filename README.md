@@ -16,7 +16,7 @@
   <a href="mailto:Matheusramosob@gmail.com?subject=CONTACT%20BY%20GITHUB%20-%20HELLO%20MATHEUS&body=Olá%20Matheus,%20tudo%20bem?">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="mailto:Matheusramosob@gmail.com?subject=CONTACT%20BY%20GITHUB%20-%20HELLO%20MATHEUS&body=Olá%20Matheus,%20tudo%20bem?">
+  <a href="mailto:https://www.instagram.com/_.matheusramos/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center" style="font-size: 14px; margin-bottom: 39px;">
- I am an Information Technology enthusiast with a strong desire to learn and grow in the field. I am currently seeking an internship opportunity where I can apply my knowledge in a real-world environment and further develop my skills. Although I have not yet completed my degree, I am committed to dedicating myself fully and making a significant contribution to your company.
+  I am an Information Technology enthusiast with a strong desire to learn and grow in the field. I am currently seeking an internship opportunity that will allow me to apply my knowledge in a real work environment and enhance my skills. Although I have not yet completed my degree, I am committed to dedicating myself and contributing significantly to your company.
 </p>
 
 <!-- Increased font size for "Technologies I Use" and reduced margin -->
@@ -43,4 +43,4 @@
 <!-- Centralize GIF at the end -->
 <p align="center">
   <img src="https://media1.tenor.com/m/rkY5QA5c3VAAAAAC/gato-digitando.gif" alt="Gato Digitando" width="225">
-</
+
